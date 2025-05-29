@@ -9,11 +9,12 @@ import Navbar from "./components/NavbarComponent.vue";
     </div>
   </div>
 </template>
-<script setup></script>
+<script setup>
+</script>
 <style>
 #Body {
-  background: linear-gradient(-70deg, #3e035a9d, #3b38e6, #2370d5, #073791);
-  background-size: 400% 400%;
+  background: linear-gradient(-70deg, #000000ee, #430446, #000000, #3b0530da);
+  background-size: 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
 }
