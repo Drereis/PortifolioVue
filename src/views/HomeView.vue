@@ -6,7 +6,6 @@ import Img from '../components/ImgComponent.vue'
 </template>
 
 <style>
-
 </style>
 
 
